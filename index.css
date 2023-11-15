@@ -186,8 +186,8 @@ input {
     /* background-color: grey; */
     max-width: 1140px;
     margin: 0 auto;
-    padding-left: 0.9rem;
-    padding-right: 0.9rem;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .flex {
@@ -382,7 +382,7 @@ dd {
     width: 100%;
     background-color: var(--primary-color);
     color: #fff;
-    padding-left: 50px;
+    padding-left: 30px;
     padding-top: 30px;
 
     border-top: solid 2px black;
@@ -485,8 +485,8 @@ dd {
     margin-left: 0.9rem;
     max-width: 1140px;
     margin: 0 auto;
-    padding-left: 0.9rem;
-    padding-right: 0.9rem;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .stack__link {
