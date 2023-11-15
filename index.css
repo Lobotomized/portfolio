@@ -350,7 +350,7 @@ dd {
 /* Hello */
 .hello__details {
     margin-bottom: 1, 67em;
-    text-align: justify;
+    text-align: center;
 }
 
 /* Buttons */
@@ -529,10 +529,6 @@ dd {
 
     }
 
-    .hello__details {
-        margin-right: 15px;
-        margin-left: 15px;
-    }
 
     .project__description {
         max-height: 80%;
