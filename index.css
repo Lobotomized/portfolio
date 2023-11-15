@@ -226,7 +226,7 @@ input {
 
 /* HOME */
 .home {
-    background: url(file:///C:/Desktop/programming/Portfolio/profile.jpg);
+    background: url('./profile.jpg');
     background-size: cover;
     background-position: 50%;
     padding-top: 3.5rem;
