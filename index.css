@@ -376,8 +376,10 @@ dd {
 
 
 .footer {
+
     position: absolute;
-    height: 260px;
+
+    height: 240px;
     width: 100%;
     background-color: var(--primary-color);
     color: #fff;
@@ -547,9 +549,8 @@ dd {
     }
 
     .link {
-        max-width: 130px;
         max-height: 40px;
-        font-size: 10px;
+        font-size: 12px;
         margin-top: 150px;
     }
 
